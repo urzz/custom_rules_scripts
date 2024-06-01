@@ -34,27 +34,27 @@ Rockstar规则由《RULE GENERATOR 规则生成器》自动生成。
 #### 规则链接
 **MASTER分支 (每日更新)**
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Rockstar/Rockstar.yaml
+https://raw.githubusercontent.com/urzz/custom_rules_scripts/master/rule/Clash/Rockstar/Rockstar.yaml
 
 **MASTER分支 CDN (每日更新)**
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Rockstar/Rockstar.yaml
+https://cdn.jsdelivr.net/gh/urzz/custom_rules_scripts@master/rule/Clash/Rockstar/Rockstar.yaml
 
 **MASTER分支 GHProxy (每日更新)**
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Rockstar/Rockstar.yaml
+https://ghproxy.com/https://raw.githubusercontent.com/urzz/custom_rules_scripts/master/rule/Clash/Rockstar/Rockstar.yaml
 
 **RELEASE分支 (不定时更新)**
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/Rockstar/Rockstar.yaml
+https://raw.githubusercontent.com/urzz/custom_rules_scripts/release/rule/Clash/Rockstar/Rockstar.yaml
 
 **RELEASE分支CDN (不定时更新)**
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/Rockstar/Rockstar.yaml
+https://cdn.jsdelivr.net/gh/urzz/custom_rules_scripts@release/rule/Clash/Rockstar/Rockstar.yaml
 
 **RELEASE分支 GHProxy (不定时更新)**
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/Rockstar/Rockstar.yaml
+https://ghproxy.com/https://raw.githubusercontent.com/urzz/custom_rules_scripts/release/rule/Clash/Rockstar/Rockstar.yaml
 
 ## 子规则/排除规则
 
@@ -65,7 +65,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 《Rockstar》的数据来自以下链接，如与本项目的《Rockstar》规则混合使用，可能会造成规则大量重复。
 
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/Rockstar/Rockstar.list
+- https://raw.githubusercontent.com/urzz/custom_rules_scripts/master/source/rule/Rockstar/Rockstar.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Game/Rockstar.list
 
 

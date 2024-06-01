@@ -44,51 +44,51 @@
 #### 规则链接
 **MASTER分支 (每日更新)**
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AdvertisingLite/AdvertisingLite.yaml
+https://raw.githubusercontent.com/urzz/custom_rules_scripts/master/rule/Clash/AdvertisingLite/AdvertisingLite.yaml
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AdvertisingLite/AdvertisingLite_Classical.yaml
+https://raw.githubusercontent.com/urzz/custom_rules_scripts/master/rule/Clash/AdvertisingLite/AdvertisingLite_Classical.yaml
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AdvertisingLite/AdvertisingLite_Domain.txt
+https://raw.githubusercontent.com/urzz/custom_rules_scripts/master/rule/Clash/AdvertisingLite/AdvertisingLite_Domain.txt
 
 **MASTER分支 CDN (每日更新)**
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/AdvertisingLite/AdvertisingLite.yaml
+https://cdn.jsdelivr.net/gh/urzz/custom_rules_scripts@master/rule/Clash/AdvertisingLite/AdvertisingLite.yaml
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/AdvertisingLite/AdvertisingLite_Classical.yaml
+https://cdn.jsdelivr.net/gh/urzz/custom_rules_scripts@master/rule/Clash/AdvertisingLite/AdvertisingLite_Classical.yaml
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/AdvertisingLite/AdvertisingLite_Domain.txt
+https://cdn.jsdelivr.net/gh/urzz/custom_rules_scripts@master/rule/Clash/AdvertisingLite/AdvertisingLite_Domain.txt
 
 **MASTER分支 GHProxy (每日更新)**
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AdvertisingLite/AdvertisingLite.yaml
+https://ghproxy.com/https://raw.githubusercontent.com/urzz/custom_rules_scripts/master/rule/Clash/AdvertisingLite/AdvertisingLite.yaml
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AdvertisingLite/AdvertisingLite_Classical.yaml
+https://ghproxy.com/https://raw.githubusercontent.com/urzz/custom_rules_scripts/master/rule/Clash/AdvertisingLite/AdvertisingLite_Classical.yaml
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AdvertisingLite/AdvertisingLite_Domain.txt
+https://ghproxy.com/https://raw.githubusercontent.com/urzz/custom_rules_scripts/master/rule/Clash/AdvertisingLite/AdvertisingLite_Domain.txt
 
 **RELEASE分支 (不定时更新)**
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/AdvertisingLite/AdvertisingLite.yaml
+https://raw.githubusercontent.com/urzz/custom_rules_scripts/release/rule/Clash/AdvertisingLite/AdvertisingLite.yaml
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/AdvertisingLite/AdvertisingLite_Classical.yaml
+https://raw.githubusercontent.com/urzz/custom_rules_scripts/release/rule/Clash/AdvertisingLite/AdvertisingLite_Classical.yaml
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/AdvertisingLite/AdvertisingLite_Domain.txt
+https://raw.githubusercontent.com/urzz/custom_rules_scripts/release/rule/Clash/AdvertisingLite/AdvertisingLite_Domain.txt
 
 **RELEASE分支CDN (不定时更新)**
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/AdvertisingLite/AdvertisingLite.yaml
+https://cdn.jsdelivr.net/gh/urzz/custom_rules_scripts@release/rule/Clash/AdvertisingLite/AdvertisingLite.yaml
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/AdvertisingLite/AdvertisingLite_Classical.yaml
+https://cdn.jsdelivr.net/gh/urzz/custom_rules_scripts@release/rule/Clash/AdvertisingLite/AdvertisingLite_Classical.yaml
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/AdvertisingLite/AdvertisingLite_Domain.txt
+https://cdn.jsdelivr.net/gh/urzz/custom_rules_scripts@release/rule/Clash/AdvertisingLite/AdvertisingLite_Domain.txt
 
 **RELEASE分支 GHProxy (不定时更新)**
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/AdvertisingLite/AdvertisingLite.yaml
+https://ghproxy.com/https://raw.githubusercontent.com/urzz/custom_rules_scripts/release/rule/Clash/AdvertisingLite/AdvertisingLite.yaml
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/AdvertisingLite/AdvertisingLite_Classical.yaml
+https://ghproxy.com/https://raw.githubusercontent.com/urzz/custom_rules_scripts/release/rule/Clash/AdvertisingLite/AdvertisingLite_Classical.yaml
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/AdvertisingLite/AdvertisingLite_Domain.txt
+https://ghproxy.com/https://raw.githubusercontent.com/urzz/custom_rules_scripts/release/rule/Clash/AdvertisingLite/AdvertisingLite_Domain.txt
 
 ## 子规则/排除规则
 
@@ -108,8 +108,8 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/NobyDa/ND-AD/master/Surge/AD_Block.txt
 - https://raw.githubusercontent.com/NobyDa/Script/master/Surge/AdRule.list
 - https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Advertising.list
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/Advertising/Advertising.list
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/Advertising/LianXiangJia/LianXiangJia.list
+- https://raw.githubusercontent.com/urzz/custom_rules_scripts/master/source/rule/Advertising/Advertising.list
+- https://raw.githubusercontent.com/urzz/custom_rules_scripts/master/source/rule/Advertising/LianXiangJia/LianXiangJia.list
 - https://raw.githubusercontent.com/yjqiang/surge_scripts/main/modules/hupu/hupu.sgmodule
 - https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/filter/fenliu.list
 

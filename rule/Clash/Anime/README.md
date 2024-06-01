@@ -32,27 +32,27 @@ Anime规则由《RULE GENERATOR 规则生成器》自动生成。
 #### 规则链接
 **MASTER分支 (每日更新)**
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Anime/Anime.yaml
+https://raw.githubusercontent.com/urzz/custom_rules_scripts/master/rule/Clash/Anime/Anime.yaml
 
 **MASTER分支 CDN (每日更新)**
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Anime/Anime.yaml
+https://cdn.jsdelivr.net/gh/urzz/custom_rules_scripts@master/rule/Clash/Anime/Anime.yaml
 
 **MASTER分支 GHProxy (每日更新)**
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Anime/Anime.yaml
+https://ghproxy.com/https://raw.githubusercontent.com/urzz/custom_rules_scripts/master/rule/Clash/Anime/Anime.yaml
 
 **RELEASE分支 (不定时更新)**
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/Anime/Anime.yaml
+https://raw.githubusercontent.com/urzz/custom_rules_scripts/release/rule/Clash/Anime/Anime.yaml
 
 **RELEASE分支CDN (不定时更新)**
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/Anime/Anime.yaml
+https://cdn.jsdelivr.net/gh/urzz/custom_rules_scripts@release/rule/Clash/Anime/Anime.yaml
 
 **RELEASE分支 GHProxy (不定时更新)**
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/Anime/Anime.yaml
+https://ghproxy.com/https://raw.githubusercontent.com/urzz/custom_rules_scripts/release/rule/Clash/Anime/Anime.yaml
 
 ## 子规则/排除规则
 

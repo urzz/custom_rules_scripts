@@ -43,51 +43,51 @@ ChinaMax排除相关IP规则版本
 #### 规则链接
 **MASTER分支 (每日更新)**
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaMaxNoIP/ChinaMaxNoIP.yaml
+https://raw.githubusercontent.com/urzz/custom_rules_scripts/master/rule/Clash/ChinaMaxNoIP/ChinaMaxNoIP.yaml
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaMaxNoIP/ChinaMaxNoIP_Classical.yaml
+https://raw.githubusercontent.com/urzz/custom_rules_scripts/master/rule/Clash/ChinaMaxNoIP/ChinaMaxNoIP_Classical.yaml
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaMaxNoIP/ChinaMaxNoIP_Domain.txt
+https://raw.githubusercontent.com/urzz/custom_rules_scripts/master/rule/Clash/ChinaMaxNoIP/ChinaMaxNoIP_Domain.txt
 
 **MASTER分支 CDN (每日更新)**
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/ChinaMaxNoIP/ChinaMaxNoIP.yaml
+https://cdn.jsdelivr.net/gh/urzz/custom_rules_scripts@master/rule/Clash/ChinaMaxNoIP/ChinaMaxNoIP.yaml
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/ChinaMaxNoIP/ChinaMaxNoIP_Classical.yaml
+https://cdn.jsdelivr.net/gh/urzz/custom_rules_scripts@master/rule/Clash/ChinaMaxNoIP/ChinaMaxNoIP_Classical.yaml
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/ChinaMaxNoIP/ChinaMaxNoIP_Domain.txt
+https://cdn.jsdelivr.net/gh/urzz/custom_rules_scripts@master/rule/Clash/ChinaMaxNoIP/ChinaMaxNoIP_Domain.txt
 
 **MASTER分支 GHProxy (每日更新)**
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaMaxNoIP/ChinaMaxNoIP.yaml
+https://ghproxy.com/https://raw.githubusercontent.com/urzz/custom_rules_scripts/master/rule/Clash/ChinaMaxNoIP/ChinaMaxNoIP.yaml
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaMaxNoIP/ChinaMaxNoIP_Classical.yaml
+https://ghproxy.com/https://raw.githubusercontent.com/urzz/custom_rules_scripts/master/rule/Clash/ChinaMaxNoIP/ChinaMaxNoIP_Classical.yaml
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaMaxNoIP/ChinaMaxNoIP_Domain.txt
+https://ghproxy.com/https://raw.githubusercontent.com/urzz/custom_rules_scripts/master/rule/Clash/ChinaMaxNoIP/ChinaMaxNoIP_Domain.txt
 
 **RELEASE分支 (不定时更新)**
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/ChinaMaxNoIP/ChinaMaxNoIP.yaml
+https://raw.githubusercontent.com/urzz/custom_rules_scripts/release/rule/Clash/ChinaMaxNoIP/ChinaMaxNoIP.yaml
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/ChinaMaxNoIP/ChinaMaxNoIP_Classical.yaml
+https://raw.githubusercontent.com/urzz/custom_rules_scripts/release/rule/Clash/ChinaMaxNoIP/ChinaMaxNoIP_Classical.yaml
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/ChinaMaxNoIP/ChinaMaxNoIP_Domain.txt
+https://raw.githubusercontent.com/urzz/custom_rules_scripts/release/rule/Clash/ChinaMaxNoIP/ChinaMaxNoIP_Domain.txt
 
 **RELEASE分支CDN (不定时更新)**
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/ChinaMaxNoIP/ChinaMaxNoIP.yaml
+https://cdn.jsdelivr.net/gh/urzz/custom_rules_scripts@release/rule/Clash/ChinaMaxNoIP/ChinaMaxNoIP.yaml
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/ChinaMaxNoIP/ChinaMaxNoIP_Classical.yaml
+https://cdn.jsdelivr.net/gh/urzz/custom_rules_scripts@release/rule/Clash/ChinaMaxNoIP/ChinaMaxNoIP_Classical.yaml
 
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/ChinaMaxNoIP/ChinaMaxNoIP_Domain.txt
+https://cdn.jsdelivr.net/gh/urzz/custom_rules_scripts@release/rule/Clash/ChinaMaxNoIP/ChinaMaxNoIP_Domain.txt
 
 **RELEASE分支 GHProxy (不定时更新)**
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/ChinaMaxNoIP/ChinaMaxNoIP.yaml
+https://ghproxy.com/https://raw.githubusercontent.com/urzz/custom_rules_scripts/release/rule/Clash/ChinaMaxNoIP/ChinaMaxNoIP.yaml
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/ChinaMaxNoIP/ChinaMaxNoIP_Classical.yaml
+https://ghproxy.com/https://raw.githubusercontent.com/urzz/custom_rules_scripts/release/rule/Clash/ChinaMaxNoIP/ChinaMaxNoIP_Classical.yaml
 
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/ChinaMaxNoIP/ChinaMaxNoIP_Domain.txt
+https://ghproxy.com/https://raw.githubusercontent.com/urzz/custom_rules_scripts/release/rule/Clash/ChinaMaxNoIP/ChinaMaxNoIP_Domain.txt
 
 ## 子规则/排除规则
 
@@ -156,7 +156,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Meitu.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/PDD.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Sina.list
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/Weibo/Weibo.list
+- https://raw.githubusercontent.com/urzz/custom_rules_scripts/master/source/rule/Weibo/Weibo.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/Sina.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Baidu.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/BaiDu.list
@@ -168,13 +168,13 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/MI.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/Xiaomi.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/BiliBili.list
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/ByteDance/ByteDance.list
+- https://raw.githubusercontent.com/urzz/custom_rules_scripts/master/source/rule/ByteDance/ByteDance.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/ByteDance.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/ByteDance.list
 - https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/China.list
 - https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/China.list
 - https://raw.githubusercontent.com/Hackl0us/SS-Rule-Snippet/master/Rulesets/Surge/Basic/CN.list
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/China/China.list
+- https://raw.githubusercontent.com/urzz/custom_rules_scripts/master/source/rule/China/China.list
 - https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Filter/Mainland.list
 - https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Region/China.list
 - https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/direct.txt

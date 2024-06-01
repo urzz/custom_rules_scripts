@@ -32,16 +32,16 @@
 
 #### 规则链接
 **实时版**
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/masterE:\Projects\RuleGenerator\temp\Github\rule/Clash/Assassin'sCreed/Assassin'sCreed-Origins/Assassin'sCreed-Origins.yaml
+https://raw.githubusercontent.com/urzz/custom_rules_scripts/masterE:\Projects\RuleGenerator\temp\Github\rule/Clash/Assassin'sCreed/Assassin'sCreed-Origins/Assassin'sCreed-Origins.yaml
 
 **实时版CDN**
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@masterE:\Projects\RuleGenerator\temp\Github\rule/Clash/Assassin'sCreed/Assassin'sCreed-Origins/Assassin'sCreed-Origins.yaml
+https://cdn.jsdelivr.net/gh/urzz/custom_rules_scripts@masterE:\Projects\RuleGenerator\temp\Github\rule/Clash/Assassin'sCreed/Assassin'sCreed-Origins/Assassin'sCreed-Origins.yaml
 
 **稳定版**
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/releaseE:\Projects\RuleGenerator\temp\Github\rule/Clash/Assassin'sCreed/Assassin'sCreed-Origins/Assassin'sCreed-Origins.yaml
+https://raw.githubusercontent.com/urzz/custom_rules_scripts/releaseE:\Projects\RuleGenerator\temp\Github\rule/Clash/Assassin'sCreed/Assassin'sCreed-Origins/Assassin'sCreed-Origins.yaml
 
 **稳定版CDN**
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@releaseE:\Projects\RuleGenerator\temp\Github\rule/Clash/Assassin'sCreed/Assassin'sCreed-Origins/Assassin'sCreed-Origins.yaml
+https://cdn.jsdelivr.net/gh/urzz/custom_rules_scripts@releaseE:\Projects\RuleGenerator\temp\Github\rule/Clash/Assassin'sCreed/Assassin'sCreed-Origins/Assassin'sCreed-Origins.yaml
 
 ## 子规则/排除规则
 
