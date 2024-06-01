@@ -1,0 +1,53 @@
+name: Sync Fork and Modify Content
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 16 * * *'  # Runs at 16:00 UTC every day, which is 00:00 UTC+8
+
+jobs:
+  sync-and-modify:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Checkout your repository
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Ensures history is fetched
+
+      # Step 2: Configure Git
+      - name: Configure Git
+        run: |
+          git config user.name 'GitHub Action'
+          git config user.email 'action@github.com'
+
+      # Step 3: Add the upstream repository
+      - name: Add Upstream Remote
+        run: git remote add upstream https://github.com/blackmatrix7/ios_rule_script.git
+
+      # Step 4: Fetch the latest changes from the upstream repository
+      - name: Fetch Upstream
+        run: |
+          git fetch upstream
+          git checkout master
+
+      # Step 5: Merge changes from upstream, favoring their changes in conflicts
+      - name: Merge Upstream Changes
+        run: git merge upstream/master --strategy-option theirs
+
+      # Step 6: Modify files
+      - name: Modify Files Excluding Markdown Files
+        run: |
+          find rule/Clash -type f ! -name "*.md" -exec sed -i '/IP-ASN/d' {} \;
+
+      # Step 7: Check for changes and commit if any
+      - name: Commit and Push Changes
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git add .
+            git commit -m "Sync from upstream and modify files"
+            git push origin master
+          else
+            echo "No changes to commit"
+          fi
