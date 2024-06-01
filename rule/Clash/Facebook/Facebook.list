@@ -4,7 +4,6 @@
 # UPDATED: 2024-04-29 13:34:29
 # DOMAIN-KEYWORD: 2
 # DOMAIN-SUFFIX: 544
-# IP-ASN: 1
 # IP-CIDR: 23
 # TOTAL: 570
 DOMAIN-SUFFIX,aboutfacebook.com
@@ -576,4 +575,3 @@ IP-CIDR,54.162.243.80/32,no-resolve
 IP-CIDR,54.173.34.141/32,no-resolve
 IP-CIDR,54.235.23.242/32,no-resolve
 IP-CIDR,54.93.124.31/32,no-resolve
-IP-ASN,32934,no-resolve

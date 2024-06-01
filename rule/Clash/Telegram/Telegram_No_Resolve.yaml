@@ -5,7 +5,6 @@
 # DOMAIN: 2
 # DOMAIN-KEYWORD: 1
 # DOMAIN-SUFFIX: 22
-# IP-ASN: 5
 # IP-CIDR: 4
 # IP-CIDR6: 4
 # PROCESS-NAME: 4
@@ -48,8 +47,3 @@ payload:
   - PROCESS-NAME,nekox.messenger
   - PROCESS-NAME,org.telegram.messenger
   - PROCESS-NAME,telegram-desktop
-  - IP-ASN,211157,no-resolve
-  - IP-ASN,44907,no-resolve
-  - IP-ASN,59930,no-resolve
-  - IP-ASN,62014,no-resolve
-  - IP-ASN,62041,no-resolve
