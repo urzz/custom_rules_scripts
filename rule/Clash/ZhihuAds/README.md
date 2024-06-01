@@ -11,7 +11,7 @@
 请通过【中华人民共和国 People's Republic of China】合法的互联网出入口信道访问规则中的地址，并确保在使用过程中符合相关法律法规。
 
 ## 规则说明
-本分流规则，需要搭配 https://github.com/blackmatrix7/ios_rule_script/tree/master/script/zhihu 使用。
+本分流规则，需要搭配 https://github.com/urzz/custom_rules_scripts/tree/master/script/zhihu 使用。
 
 ## 规则统计
 
