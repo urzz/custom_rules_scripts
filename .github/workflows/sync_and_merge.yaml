@@ -40,7 +40,7 @@ jobs:
       - name: Modify Files Excluding Markdown Files
         run: |
           find rule/Clash -type f ! -name "*.md" -exec sed -i '/IP-ASN/d' {} \;
-          find rule/Clash -type f -name "*.md" -exec sed -i 's|https://github.com/blackmatrix7/ios_rule_script|https://github.com/urzz/custom_rules_scripts|g' {} +;
+          find rule/Clash -type f -name "*.md" -exec sed -i 's|blackmatrix7/ios_rule_script|urzz/custom_rules_scripts|g' {} +;
 
       # Step 7: Check for changes and commit if any
       - name: Commit and Push Changes
