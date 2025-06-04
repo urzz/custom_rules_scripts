@@ -15,17 +15,17 @@
 
 ## 规则统计
 
-最后更新时间：2025-06-03 02:12:00
+最后更新时间：2025-06-04 02:12:17
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN | 16401  | 
 | DOMAIN-KEYWORD | 277  | 
-| DOMAIN-SUFFIX | 166031  | 
+| DOMAIN-SUFFIX | 166302  | 
 | IP-CIDR | 485  | 
 | IP-CIDR6 | 3  | 
-| TOTAL | 183197  | 
+| TOTAL | 183468  | 
 
 
 ## Clash 
@@ -110,8 +110,8 @@ https://ghproxy.com/https://raw.githubusercontent.com/urzz/custom_rules_scripts/
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list
 - https://raw.githubusercontent.com/NobyDa/ND-AD/master/Surge/AD_Block.txt
 - https://raw.githubusercontent.com/NobyDa/Script/master/Surge/AdRule.list
-- https://raw.githubusercontent.com/urzz/custom_rules_scripts/master/source/rule/Advertising/Advertising.list
-- https://raw.githubusercontent.com/urzz/custom_rules_scripts/master/source/rule/Advertising/LianXiangJia/LianXiangJia.list
+- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/Advertising/Advertising.list
+- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/Advertising/LianXiangJia/LianXiangJia.list
 - https://raw.githubusercontent.com/scomper/surge-list/master/reject.list
 - https://raw.githubusercontent.com/scomper/surge-list/master/adblock.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanEasyList.list

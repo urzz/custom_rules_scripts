@@ -66,7 +66,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/urzz/custom_rules_scripts/
 
 《iOS系统升级》的数据来自以下链接，如与本项目的《iOS系统升级》规则混合使用，可能会造成规则大量重复。
 
-- https://raw.githubusercontent.com/urzz/custom_rules_scripts/master/source/rule/SystemOTA/SystemOTA.list
+- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/SystemOTA/SystemOTA.list
 - https://raw.githubusercontent.com/an0na/R/master/Filter/IOS_OTA.list
 - https://raw.githubusercontent.com/LuzMasonj/Quantumult/master/QuantumultX/Filter/BlockiOSServices.conf
 

@@ -82,7 +82,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/urzz/custom_rules_scripts/
 《Google》的数据来自以下链接，如与本项目的《Google》规则混合使用，可能会造成规则大量重复。
 
 - https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/google.txt
-- https://raw.githubusercontent.com/urzz/custom_rules_scripts/master/source/rule/Google/Google.list
+- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/Google/Google.list
 - https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Services/Google.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/PROXY/Google.list
 - https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/google.txt
