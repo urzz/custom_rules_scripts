@@ -112,8 +112,8 @@ https://ghproxy.com/https://raw.githubusercontent.com/urzz/custom_rules_scripts/
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list
 - https://raw.githubusercontent.com/NobyDa/ND-AD/master/Surge/AD_Block.txt
 - https://raw.githubusercontent.com/NobyDa/Script/master/Surge/AdRule.list
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/Advertising/Advertising.list
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/Advertising/LianXiangJia/LianXiangJia.list
+- https://raw.githubusercontent.com/urzz/custom_rules_scripts/master/source/rule/Advertising/Advertising.list
+- https://raw.githubusercontent.com/urzz/custom_rules_scripts/master/source/rule/Advertising/LianXiangJia/LianXiangJia.list
 - https://raw.githubusercontent.com/scomper/surge-list/master/reject.list
 - https://raw.githubusercontent.com/scomper/surge-list/master/adblock.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanEasyList.list
