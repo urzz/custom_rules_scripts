@@ -68,7 +68,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/urzz/custom_rules_scripts/
 
 《Facebook》的数据来自以下链接，如与本项目的《Facebook》规则混合使用，可能会造成规则大量重复。
 
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/Facebook/Facebook.list
+- https://raw.githubusercontent.com/urzz/custom_rules_scripts/master/source/rule/Facebook/Facebook.list
 - https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Services/SNS/Facebook.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/PROXY/Facebook.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Clash-RuleSet-Classical/PROXY/Facebook.yaml
