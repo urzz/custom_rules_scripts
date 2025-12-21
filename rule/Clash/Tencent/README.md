@@ -44,6 +44,10 @@ https://raw.githubusercontent.com/urzz/custom_rules_scripts/master/rule/Clash/Te
 
 https://raw.githubusercontent.com/urzz/custom_rules_scripts/master/rule/Clash/Tencent/Tencent_Domain.txt
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Tencent/Tencent_Classical.yaml
+
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Tencent/Tencent_Domain.txt
+
 **MASTER分支 CDN (每日更新)**
 
 https://cdn.jsdelivr.net/gh/urzz/custom_rules_scripts@master/rule/Clash/Tencent/Tencent.yaml
@@ -51,6 +55,10 @@ https://cdn.jsdelivr.net/gh/urzz/custom_rules_scripts@master/rule/Clash/Tencent/
 https://cdn.jsdelivr.net/gh/urzz/custom_rules_scripts@master/rule/Clash/Tencent/Tencent_Classical.yaml
 
 https://cdn.jsdelivr.net/gh/urzz/custom_rules_scripts@master/rule/Clash/Tencent/Tencent_Domain.txt
+
+https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Tencent/Tencent_Classical.yaml
+
+https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Tencent/Tencent_Domain.txt
 
 **MASTER分支 GHProxy (每日更新)**
 
@@ -60,6 +68,10 @@ https://ghproxy.com/https://raw.githubusercontent.com/urzz/custom_rules_scripts/
 
 https://ghproxy.com/https://raw.githubusercontent.com/urzz/custom_rules_scripts/master/rule/Clash/Tencent/Tencent_Domain.txt
 
+https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Tencent/Tencent_Classical.yaml
+
+https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Tencent/Tencent_Domain.txt
+
 **RELEASE分支 (不定时更新)**
 
 https://raw.githubusercontent.com/urzz/custom_rules_scripts/release/rule/Clash/Tencent/Tencent.yaml
@@ -67,6 +79,10 @@ https://raw.githubusercontent.com/urzz/custom_rules_scripts/release/rule/Clash/T
 https://raw.githubusercontent.com/urzz/custom_rules_scripts/release/rule/Clash/Tencent/Tencent_Classical.yaml
 
 https://raw.githubusercontent.com/urzz/custom_rules_scripts/release/rule/Clash/Tencent/Tencent_Domain.txt
+
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/Tencent/Tencent_Classical.yaml
+
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/Tencent/Tencent_Domain.txt
 
 **RELEASE分支CDN (不定时更新)**
 
@@ -76,6 +92,10 @@ https://cdn.jsdelivr.net/gh/urzz/custom_rules_scripts@release/rule/Clash/Tencent
 
 https://cdn.jsdelivr.net/gh/urzz/custom_rules_scripts@release/rule/Clash/Tencent/Tencent_Domain.txt
 
+https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/Tencent/Tencent_Classical.yaml
+
+https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/Tencent/Tencent_Domain.txt
+
 **RELEASE分支 GHProxy (不定时更新)**
 
 https://ghproxy.com/https://raw.githubusercontent.com/urzz/custom_rules_scripts/release/rule/Clash/Tencent/Tencent.yaml
@@ -83,6 +103,10 @@ https://ghproxy.com/https://raw.githubusercontent.com/urzz/custom_rules_scripts/
 https://ghproxy.com/https://raw.githubusercontent.com/urzz/custom_rules_scripts/release/rule/Clash/Tencent/Tencent_Classical.yaml
 
 https://ghproxy.com/https://raw.githubusercontent.com/urzz/custom_rules_scripts/release/rule/Clash/Tencent/Tencent_Domain.txt
+
+https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/Tencent/Tencent_Classical.yaml
+
+https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/Tencent/Tencent_Domain.txt
 
 ## 子规则/排除规则
 
