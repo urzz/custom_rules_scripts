@@ -68,7 +68,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/urzz/custom_rules_scripts/
 《AppleProxy》的数据来自以下链接，如与本项目的《AppleProxy》规则混合使用，可能会造成规则大量重复。
 
 - https://raw.githubusercontent.com/Hackl0us/SS-Rule-Snippet/master/Rulesets/Surge/Basic/Apple-proxy.list
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/AppleBlock/AppleBlock.list
+- https://raw.githubusercontent.com/urzz/custom_rules_scripts/master/source/rule/AppleBlock/AppleBlock.list
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。
