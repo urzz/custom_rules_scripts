@@ -104,7 +104,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/urzz/custom_rules_scripts/
 
 - https://raw.githubusercontent.com/urzz/custom_rules_scripts/master/source/rule/AppStore/AppStore.list
 - https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/icloud.txt
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/TestFlight/TestFlight.list
+- https://raw.githubusercontent.com/urzz/custom_rules_scripts/master/source/rule/TestFlight/TestFlight.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/AppleNews.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/AppleTV.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Apple.list
